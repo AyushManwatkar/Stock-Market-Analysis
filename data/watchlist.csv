@@ -1,0 +1,52 @@
+symbol,name,sector
+AAPL,Apple Inc.,Technology
+MSFT,Microsoft Corp,Technology
+GOOGL,Alphabet Inc. (Google),Technology
+AMZN,Amazon.com Inc.,Consumer Discretionary
+META,Meta Platforms Inc.,Technology
+TSLA,Tesla Inc.,Consumer Discretionary
+NVDA,NVIDIA Corp,Technology
+NFLX,Netflix Inc.,Communication Services
+AMD,Advanced Micro Devices,Technology
+INTC,Intel Corp,Technology
+IBM,International Business Machines,Technology
+ORCL,Oracle Corp,Technology
+CSCO,Cisco Systems,Technology
+QCOM,Qualcomm Inc.,Technology
+ADBE,Adobe Inc.,Technology
+CRM,Salesforce Inc.,Technology
+PYPL,PayPal Holdings,Financial Technology
+SHOP,Shopify Inc.,Technology
+UBER,Uber Technologies,Technology
+LYFT,Lyft Inc.,Technology
+SNOW,Snowflake Inc.,Technology
+DOCU,DocuSign Inc.,Technology
+ZM,Zoom Video Communications,Technology
+PLTR,Palantir Technologies,Technology
+SQ,Block Inc. (Square),Financial Technology
+V,Visa Inc.,Financials
+MA,Mastercard Inc.,Financials
+JPM,JPMorgan Chase & Co,Financials
+BAC,Bank of America Corp,Financials
+WFC,Wells Fargo & Co,Financials
+GS,Goldman Sachs Group,Financials
+MS,Morgan Stanley,Financials
+DIS,Walt Disney Co,Communication Services
+NKE,Nike Inc.,Consumer Discretionary
+SBUX,Starbucks Corp,Consumer Discretionary
+MCD,McDonald's Corp,Consumer Discretionary
+PEP,PepsiCo Inc.,Consumer Staples
+KO,Coca-Cola Co,Consumer Staples
+PG,Procter & Gamble Co,Consumer Staples
+JNJ,Johnson & Johnson,Healthcare
+PFE,Pfizer Inc.,Healthcare
+MRNA,Moderna Inc.,Healthcare
+UNH,UnitedHealth Group,Healthcare
+CVX,Chevron Corp,Energy
+XOM,Exxon Mobil Corp,Energy
+CAT,Caterpillar Inc.,Industrials
+BA,Boeing Co,Industrials
+GE,General Electric,Industrials
+MMM,3M Company,Industrials
+T,AT&T Inc.,Communication Services
+VZ,Verizon Communications,Communication Services
